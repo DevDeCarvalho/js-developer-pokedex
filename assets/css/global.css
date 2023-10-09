@@ -1,3 +1,4 @@
+
 * {
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
@@ -15,10 +16,11 @@ body {
 }
 
 @media screen and (min-width: 992px) {
-    .content {
+   .content {
         max-width: 992px;
         height: auto;
         margin: 1rem auto;
         border-radius: 1rem;
-    }
 }
+  }
+  
